@@ -22,4 +22,5 @@
 
 
 ##A brief report describing what happens when you kill the microservice with port 2222. Can the web service provide information about the accounts? Why?
+	
 	- Once the account services dies (port 2222), Eureka still has an instance of the same service registered and running on port 4444 and the service keeps working.
