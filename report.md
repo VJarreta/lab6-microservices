@@ -1,24 +1,24 @@
 ##The two microservices are running and registered (two terminals, logs screenshots).
 	- Microservice at port 2222:
-![microservice:2222](screenshots/1_1.PNG)
+![microservice:2222](screenshots/1_1.png)
 
 	- Microservice at port 3333:
-![microservice:3333](screenshots/1_2.PNG)
+![microservice:3333](screenshots/1_2.png)
 
 
 ##The service registration service has the two microservices registered (a third terminal, dashboard screenshots)
 	- Microservice registration at port 1111:
-![microservice:1111](screenshots/2_1.PNG)
+![microservice:1111](screenshots/2_1.png)
 
 	- Dashboard:
-![microservice:1111](screenshots/2_2.PNG)
+![Dashboard](screenshots/2_2.png)
 
 ##A second account microservice is running in the port 4444 and it is registered (a fourth terminal, log screenshots).
     - New account microservice at port 4444:
-![microservice:4444](screenshots/3_1.PNG)
+![microservice:4444](screenshots/3_1.png)
 
     - Dashboard:
-![microservice:4444](screenshots/3_2.PNG)
+![Dashboard](screenshots/3_2.png)
 
 
 ##A brief report describing what happens when you kill the microservice with port 2222. Can the web service provide information about the accounts? Why?
